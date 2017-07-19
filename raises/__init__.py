@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""When Python raises, we Stack Overflow
+"""Raises' in your source code, all's right with the Stack Overflow
 """
 
 __version__ = '0.2'

@@ -1,7 +1,7 @@
 Raises Stack Overflow
 --------------------
 
-*When Python raises, We Stack Overflow*
+*Raises' in your source code, all's right with the Stack Overflow*
 
 
 Install
