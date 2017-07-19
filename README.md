@@ -56,3 +56,10 @@ To disable the raises function
 
 The core function of raises, it was the `sys.excepthook` replacer to handle
 every exceptio, and to open a new browser with tabs.
+
+
+Why there ins't setup.py?
+-------------------------
+
+It is 2017, please use [flit](https://github.com/takluyver/flit)
+
