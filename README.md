@@ -3,6 +3,7 @@ Raises Stack Overflow
 
 *Raises' in your source code, all's right with the Stack Overflow*
 
+[![asciicast](https://asciinema.org/a/DZ1kWcdhIDr1l419wH8DM7UKj.png)](https://asciinema.org/a/DZ1kWcdhIDr1l419wH8DM7UKj)
 
 Install
 -------
